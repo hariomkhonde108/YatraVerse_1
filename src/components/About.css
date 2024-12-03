@@ -1,0 +1,130 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f4f7fb;
+  color: #333;
+}
+
+/* Container for About Us Section */
+.about-us-container {
+  width: 90%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 50px 0;
+}
+
+/* Title styling */
+h2 {
+  font-size: 2.5rem;
+  font-weight: 600;
+  margin-bottom: 20px;
+  color: #2c3e50;
+  text-align: center;
+}
+
+/* Paragraph text styling for the 'About us' section */
+.about-us p {
+  font-size: 1.125rem;
+  line-height: 1.6;
+  color: #555;
+  text-align: center;
+  margin: 20px 0;
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Management Team Section */
+.management-team {
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.team-member {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  align-items: center;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease-in-out;
+}
+
+.team-member:hover {
+  transform: translateY(-10px);
+}
+
+.team-photo {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 4px solid #2c3e50;
+}
+
+.team-details {
+  flex-grow: 1;
+}
+
+.team-details h3 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: #2c3e50;
+  margin-bottom: 10px;
+}
+
+.team-details p {
+  font-size: 1rem;
+  line-height: 1.6;
+  color: #555;
+  margin-top: 5px;
+}
+
+/* Responsive styling */
+@media (max-width: 768px) {
+  .team-member {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .team-photo {
+    width: 100px;
+    height: 100px;
+  }
+
+  .team-details h3 {
+    text-align: center;
+  }
+
+  .about-us p {
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .about-us-container {
+    padding: 30px 0;
+  }
+
+  h2 {
+    font-size: 2rem;
+  }
+
+  .team-member {
+    padding: 15px;
+  }
+
+  .team-details p {
+    font-size: 0.9rem;
+  }
+}

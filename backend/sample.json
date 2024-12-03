@@ -1,0 +1,149 @@
+[
+  {
+    "departure": "Bengaluru",
+    "destination": "Mysore",
+    "date": "2024-11-20",
+    "time": "07:00 AM",
+    "price": 700
+  },
+  {
+    "departure": "Bengaluru",
+    "destination": "Hyderabad",
+    "date": "2024-11-21",
+    "time": "08:30 AM",
+    "price": 1500
+  },
+  {
+    "departure": "Chennai",
+    "destination": "Coimbatore",
+    "date": "2024-11-22",
+    "time": "06:00 PM",
+    "price": 900
+  },
+  {
+    "departure": "Mumbai",
+    "destination": "Pune",
+    "date": "2024-11-23",
+    "time": "11:00 AM",
+    "price": 500
+  },
+  {
+    "departure": "Delhi",
+    "destination": "Agra",
+    "date": "2024-11-24",
+    "time": "09:00 AM",
+    "price": 400
+  },
+  {
+    "departure": "Kolkata",
+    "destination": "Digha",
+    "date": "2024-11-25",
+    "time": "07:30 AM",
+    "price": 600
+  },
+  {
+    "departure": "Mumbai",
+    "destination": "Goa",
+    "date": "2024-11-26",
+    "time": "10:00 AM",
+    "price": 1200
+  },
+  {
+    "departure": "Delhi",
+    "destination": "Mumbai",
+    "date": "2024-11-27",
+    "time": "08:00 PM",
+    "price": 2200
+  },
+  {
+    "departure": "Goa",
+    "destination": "Hyderabad",
+    "date": "2024-11-28",
+    "time": "06:00 PM",
+    "price": 1800
+  },
+  {
+    "departure": "Coimbatore",
+    "destination": "Mysore",
+    "date": "2024-11-29",
+    "time": "04:30 PM",
+    "price": 700
+  },
+  {
+    "departure": "Hyderabad",
+    "destination": "Pune",
+    "date": "2024-11-30",
+    "time": "05:00 PM",
+    "price": 1400
+  },
+  {
+    "departure": "Pune",
+    "destination": "Goa",
+    "date": "2024-12-01",
+    "time": "07:00 AM",
+    "price": 1000
+  },
+  {
+    "departure": "Delhi",
+    "destination": "Kolkata",
+    "date": "2024-12-02",
+    "time": "06:00 AM",
+    "price": 2500
+  },
+  {
+    "departure": "Kochi",
+    "destination": "Bengaluru",
+    "date": "2024-12-03",
+    "time": "03:00 PM",
+    "price": 1500
+  },
+  {
+    "departure": "Mysore",
+    "destination": "Chennai",
+    "date": "2024-12-04",
+    "time": "09:30 AM",
+    "price": 1200
+  },
+  {
+    "departure": "Mumbai",
+    "destination": "Delhi",
+    "date": "2024-12-05",
+    "time": "10:30 PM",
+    "price": 2200
+  },
+  {
+    "departure": "Goa",
+    "destination": "Kochi",
+    "date": "2024-12-06",
+    "time": "08:00 AM",
+    "price": 2000
+  },
+  {
+    "departure": "Kolkata",
+    "destination": "Mumbai",
+    "date": "2024-12-07",
+    "time": "02:00 PM",
+    "price": 2800
+  },
+  {
+    "departure": "Hyderabad",
+    "destination": "Delhi",
+    "date": "2024-12-08",
+    "time": "05:00 PM",
+    "price": 2000
+  },
+  {
+    "departure": "Agra",
+    "destination": "Pune",
+    "date": "2024-12-09",
+    "time": "07:30 AM",
+    "price": 1600
+  },
+  {
+    "departure": "Chennai",
+    "destination": "Goa",
+    "date": "2024-12-10",
+    "time": "06:00 PM",
+    "price": 1800
+  }
+]
